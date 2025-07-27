@@ -1,4 +1,19 @@
+*
+*
+*
+*
+
 Here we will be writing some commands for git and github
 
 
 1- git init (to initialize empty git repository basically making FS into VCS)
+2- git add
+3- git status
+4- git commit - m "any message"
+5- git restore
+6- git remote add origin https://github.com/Abhishek-765/github-for-devops-workshop.git
+7- git remote -v
+
+
+
+
