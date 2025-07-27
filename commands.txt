@@ -1,0 +1,4 @@
+Here we will be writing some commands for git and github
+
+
+1- git init (to initialize empty git repository basically making FS into VCS)
