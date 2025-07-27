@@ -13,9 +13,3 @@ Here we will be writing some commands for git and github
 5- git restore
 6- git remote add origin https://github.com/Abhishek-765/github-for-devops-workshop.git
 7- git remote -v
-
-
-This is some new changes 
-
-
-
